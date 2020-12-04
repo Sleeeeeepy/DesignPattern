@@ -7,7 +7,7 @@ namespace Facade
         public void Scan(string filename)
         {
             Console.WriteLine($"The scanner is reading {filename}...");
-            Console.WriteLine($"The scanner is tokenizing {filename}");
+            Console.WriteLine($"The scanner is tokenizing {filename}...");
         }
     }
 }
